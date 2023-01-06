@@ -46,7 +46,6 @@ button {
   background-size: cover;
   background-position: center;
   position: relative;
-  min-height: 50px;
 }
 
 .meals h2 {
